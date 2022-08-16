@@ -1,0 +1,171 @@
+a:hover{
+    text-decoration: none;
+}
+
+.header-admin{
+    color: white;
+    background-color: #6e9c92;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 30px;
+    height: 8vh;
+}
+.logout{
+    text-decoration: none;
+    color: white;
+}
+.logout:hover{
+    text-decoration: none;
+    color: white;
+}
+.slide-button{
+    margin-right: 20px;
+    transition: 0.3s all;
+}
+.slide-button:hover{
+    color: rgb(161, 161, 161);
+    cursor: pointer;
+}
+.slide-bar{
+    display: flex;
+    flex-direction: column;
+    width: 216px;
+    background-color: #2e3835;
+    color: white;
+    transition: 0.4s all;
+}
+.slide-bar_list{
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+}
+.slide-bar_list p{
+    display: block;
+    margin: 0;
+    padding: 17px 20px;
+    text-decoration: none;
+    color: white;
+}
+.slide-bar_list p:hover{
+    color: white;
+    background-color: #6e9c92;
+    text-decoration: none;
+}
+.employee{
+    text-align: center;
+}
+.employee-image{
+    font-size: 75px;
+    text-align: center;
+}
+.on-off{
+    margin-left:-180px;
+}
+.on-off-menu a i{
+    margin-left: 173px;
+    font-size: 22px;
+}
+.on-off-menu a span{
+    display: none;
+}
+.on-off-employee{
+    visibility: hidden;
+}
+.on-off-workplace{
+    color: black;
+    margin-left: 50px;
+    width: 93%;
+    transition: 0.4s all;
+}
+.workplace{
+    color: rgb(73, 71, 71);
+    margin-left: 50px;
+    width: 80%;
+    transition: 0.4s all;
+    background-color: #fff;
+}
+.workplace_input{
+    height: 95vh;
+    overflow: scroll;
+    margin-top:30px;
+    width: 60%;
+    margin: 30px auto;
+}
+.body-admin{
+    display: flex;
+    background-color: #f3f5f4;
+}
+.form-head{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.form-link{
+    color: teal;
+    transition: all 0.5s;
+}
+.form-link:hover{
+    color: violet;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.form-func{
+    font-size: 18px;
+    background-color: wheat;
+    margin-bottom: 20px;
+}
+.form-func li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 8px;
+    border-right: 1px solid white;
+    transition: all 0.3s;
+}
+.form-func li:hover{
+    background-color: #8caad6;
+}
+.find_form{
+    border: none;
+    margin-left: 5px;
+    width: 500px;
+    font-size: 14px;
+    padding: 5px;
+    outline: none;
+}
+.workplace_display{
+    height: 81vh;
+    overflow: scroll;
+}
+.table{
+    font-size: 14px;
+}
+.logo-name{
+    color: #8deede;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+.exit-input:hover{
+    cursor: pointer;
+    color: lightblue;
+}
+.btn-input{
+    width: 100px;
+    height: 45px;
+}
+
+.avatar-employee-image {
+    width: 68px;
+    border-radius: 50%;
+}
+
+.page-admin{
+    max-width: 85%;
+    height: 92vh;
+}
+
+.btn.btn{
+    margin-right: 30px;
+    margin-bottom: 20px;
+}

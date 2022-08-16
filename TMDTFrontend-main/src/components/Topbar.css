@@ -1,0 +1,68 @@
+.topbar{
+    height: 50px;
+    line-height: 50px;
+    background-color: #bccfdc;
+    color: #fbfbfb;
+    width: 100%;
+    justify-content: space-between !important;
+}
+.topbar__more a{
+    text-decoration: none;
+    color: #fbfbfb;
+    display: inline-block;
+}
+.topbar__contact p:hover ,.topbar__more p:hover{
+    cursor: pointer;
+}
+
+.topbar__more{
+    margin-right: 20px;
+}
+.index{
+    background-color: tomato;
+    border-radius: 100%;
+    padding: 0 5px;
+    font-size: 13px;
+    position: relative;
+    top:-10px;
+    margin-left: -6px;
+}
+.myAccount{
+    position: absolute;
+    background-color: #bccfdc;
+    border: 1px solid rgb(218, 74, 74);
+    border-radius: 10px;
+    color: black;
+    width: 100px;
+    top: 46px;
+    padding: 10px 0px;
+    width: fit-content
+}
+.myAccount p{
+    padding: 0 20px;
+}
+.myAccount p:hover{
+    background-color: #e5e2e2;
+
+}
+.table-font{
+    font-size: 18px !important;
+}
+
+.name-brand{
+    font-size: 20px;
+    font-family: revert;
+    padding-left: 30px;
+}
+
+.btn-login{
+    padding-right: 15px;
+}
+
+.btn-login>i{
+    padding-right: 8px;
+}
+
+.text-white{
+    background-color: #bccfdc;
+}

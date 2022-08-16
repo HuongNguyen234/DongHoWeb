@@ -1,0 +1,11 @@
+.list-item__header{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: #9e2222;
+    padding-top: 7px;
+    padding-left: 10px;
+    color: white;
+    padding-right: 10px;
+    padding-bottom: 7px;
+}

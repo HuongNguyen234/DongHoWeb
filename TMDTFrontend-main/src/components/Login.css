@@ -1,0 +1,25 @@
+.login_container{
+    height: 650px;
+    position: relative;
+    width: 100%;
+    
+}
+.login-ct{
+    padding-top: 100px;
+    width: 60%;
+    margin: auto;
+    
+    
+}
+
+.login-main{
+    
+    background-position: center;
+    background-size: cover  ;
+}
+
+.title-form{
+    text-align: center;
+    color: #0062cc;
+    padding-bottom: 25px;
+}

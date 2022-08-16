@@ -1,0 +1,52 @@
+.custom-link {
+    transition: all 0.5s;
+    color: #336cc0;
+    font-weight: 450;
+}
+.custom-link:hover{
+    color: tomato;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.detail_product_admin{
+    font-size: 16px;
+    color: #4d4c4c;
+}
+.custom {
+    width: 100px;
+}
+.thead-success{
+    background-color: #4369d7;
+    color: white;
+}
+
+.active1{
+    background-color: red !important;
+}
+
+.btn-trangthai{
+    font-size: 13px;
+    width: 90px;
+    padding: 5px;
+}
+
+.input-modal{
+    background-color: #fff !important;
+    margin-bottom: 15px;
+}
+
+.label-modal{
+    padding-right: 30px;
+}
+
+.title-product{
+    vertical-align: inherit !important;
+}
+
+.photo-pproduct{
+    display: flex;
+}
+
+.photo{
+    
+}
